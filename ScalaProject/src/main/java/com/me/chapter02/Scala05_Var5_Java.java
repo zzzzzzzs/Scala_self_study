@@ -1,6 +1,4 @@
-package com.atguigu.bigdata.scala.chapter02;
-
-import com.atguigu.bigdata.scala.chapter02.bean.Emp;
+package com.me.chapter02;
 
 import java.lang.reflect.Field;
 

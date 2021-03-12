@@ -1,6 +1,6 @@
-package com.atguigu.bigdata.scala.chapter02;
+package com.me.chapter02;
 
-import com.atguigu.bigdata.scala.chapter02.bean.Emp;
+import com.me.chapter02.bean.Emp;
 
 public class Scala04_Var4_Java {
     public static void main(String[] args) {

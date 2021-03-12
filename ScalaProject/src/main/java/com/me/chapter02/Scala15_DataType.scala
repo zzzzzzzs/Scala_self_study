@@ -1,9 +1,10 @@
-package com.atguigu.bigdata.scala.chapter02
 
 import java.io.ObjectOutputStream
 import java.net.Socket
 
-import com.atguigu.bigdata.scala.chapter02.bean.User
+import com.me.chapter02.bean.User
+
+
 
 object Scala15_DataType {
 

@@ -12,7 +12,7 @@ public class Scala08_Identifier_Java {
 
         // 由于scala编译器的编译规则，那么产生的类文件不太一样。
         // 所以java程序如果想要访问scala的对象，需要特殊的方式。
-        System.out.println(Scala08_Identifier2$.MODULE$);
+//        System.out.println(Scala08_Identifier2$.MODULE$);
 
     }
 }
