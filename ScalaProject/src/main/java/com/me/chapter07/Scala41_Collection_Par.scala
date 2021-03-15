@@ -1,4 +1,6 @@
-package com.atguigu.bigdata.scala.chapter07
+package com.me.chapter07
+
+
 
 import scala.collection.mutable
 
@@ -6,7 +8,7 @@ object Scala41_Collection_Par {
 
     def main(args: Array[String]): Unit = {
 
-        // TODO Scala - 集合
+        // TODO Scala - 集合 并行
 
         val result1 = (0 to 100).map{
             // num => ThreadName

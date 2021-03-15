@@ -1,10 +1,12 @@
-package com.atguigu.bigdata.scala.chapter07
+package com.me.chapter07
+
+
 
 object Scala36_Collection_Method10 {
 
     def main(args: Array[String]): Unit = {
 
-        // TODO Scala - 集合 - 计算函数
+        // TODO Scala - 集合 - 计算函数 scan
         val list = List(1,2,3,4)
 
         // Scala scan方法和fold方法很类似。

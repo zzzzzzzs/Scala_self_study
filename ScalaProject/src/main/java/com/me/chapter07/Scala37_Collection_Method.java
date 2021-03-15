@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter07;
+package com.me.chapter07;
+
 import java.util.*;
 public class Scala37_Collection_Method {
     public static void main(String[] args) {

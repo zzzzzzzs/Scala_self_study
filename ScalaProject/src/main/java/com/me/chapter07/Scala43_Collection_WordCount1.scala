@@ -1,3 +1,5 @@
+package com.me.chapter07
+
 
 
 object Scala43_Collection_WordCount1 {

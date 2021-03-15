@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter07
+package com.me.chapter07
+
 
 import scala.math.Ordering
 
@@ -15,7 +16,7 @@ object Scala33_Collection_Method7 {
         //      List => filter => Result (X)
         //      List（N） => 简化，规约（reduce） => Result(1)
         // TODO Reduce方法的表示数据处理的规则
-        //      为了使用方便，所有scala集合中数据处理基本上都是两两操作
+        //      为了使用方便，所有scala集合中数据处理基本上都是两两操作，使用的是reduceLeft
 //        val result: Int = list.reduce(
 //            (x:Int, y:Int) => {
 //                x * y

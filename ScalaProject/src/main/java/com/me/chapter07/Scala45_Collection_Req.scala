@@ -1,3 +1,5 @@
+package com.me.chapter07
+
 
 
 object Scala45_Collection_Req {
