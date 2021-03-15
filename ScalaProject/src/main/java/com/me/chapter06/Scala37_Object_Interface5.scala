@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter06
+package com.me.chapter06
+
 
 object Scala37_Object_Interface5 {
 

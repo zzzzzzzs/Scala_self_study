@@ -1,4 +1,6 @@
-package com.atguigu.bigdata.scala.chapter07
+package com.me.chapter07
+
+
 
 object Scala11_Collection_Seq2 {
 

@@ -1,4 +1,6 @@
-package com.atguigu.bigdata.scala.chapter05
+package com.me.chapter05
+
+
 
 object Scala03_Function_Normal {
 

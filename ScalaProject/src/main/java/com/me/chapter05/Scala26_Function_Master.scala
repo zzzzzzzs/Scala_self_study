@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter05
+package com.me.chapter05
+
 
 import java.io.PrintWriter
 import java.net.Socket

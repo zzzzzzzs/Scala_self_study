@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter06
+package com.me.chapter06
+
 
 object Scala14_Object_Field1 {
 
@@ -34,8 +35,8 @@ class ChildUser14 extends User14{
     }
 }
 class User14 {
-    private var name_private : String = _
-    private[scala] var name_package : String = _
+    private var name_private : String = _ // _ 表示类的默认初始化
+    private[com] var name_package : String = _
     protected var name_protected : String = _
     var name_public : String = _
 }

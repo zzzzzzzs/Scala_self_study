@@ -1,4 +1,6 @@
-package com.atguigu.bigdata.scala.chapter07
+package com.me.chapter07
+
+
 
 import scala.collection.mutable.ListBuffer
 
@@ -20,7 +22,7 @@ object Scala12_Collection_Seq3 {
         buffer1.remove(2,2)    // f  h
 
         println(buffer1)
-        //println(buffer2)
+        println(buffer2)
 
     }
 }

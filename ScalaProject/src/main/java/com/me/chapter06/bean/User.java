@@ -1,4 +1,4 @@
-package com.atguigu.bigdata.scala.chapter06.bean;
+package com.me.chapter06.bean;
 
 public class User extends Person {
     public int age = 30;

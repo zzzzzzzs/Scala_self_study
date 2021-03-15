@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter05
+package com.me.chapter05
+
 
 object Scala13_Function_Hell6 {
 

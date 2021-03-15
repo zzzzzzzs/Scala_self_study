@@ -1,4 +1,6 @@
-package com.atguigu.bigdata.scala.chapter06
+package com.me.chapter06
+
+
 import java.util.Date
 object Scala01_Object {
 

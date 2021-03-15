@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter06
+package com.me.chapter06
+
 
 object Scala22_Object_Instance2 {
 

@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter07
+package com.me.chapter07
+
 
 import scala.collection.mutable.ArrayBuffer
 
@@ -34,7 +35,7 @@ object Scala06_Collection_Array5 {
         //array.remove(1)
         //array.remove(1,2)
         // 删除数据的时候，数量不能超出限制,如果超出，那么会发生错误
-        array.remove(1,3)
+        array.remove(1,2)
 
         // TODO 3. 数据遍历和访问
         // 如果是Array数组，打印时会产生hashCode的字符串，如果是ArrayBuffer，

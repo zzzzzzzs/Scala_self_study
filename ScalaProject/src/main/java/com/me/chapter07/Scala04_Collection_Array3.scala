@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter07
+package com.me.chapter07
+
 
 object Scala04_Collection_Array3 {
 

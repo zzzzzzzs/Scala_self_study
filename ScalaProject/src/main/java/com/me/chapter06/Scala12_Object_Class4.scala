@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter06
+package com.me.chapter06
+
 
 object Scala12_Object_Class4 {
 
@@ -13,11 +14,11 @@ object Scala12_Object_Class4 {
 class Parent {
 
 }
-class User extends Parent{
-
-}
-object User {
-
-}
+//class User extends Parent{
+//
+//}
+//object User {
+//
+//}
 
 

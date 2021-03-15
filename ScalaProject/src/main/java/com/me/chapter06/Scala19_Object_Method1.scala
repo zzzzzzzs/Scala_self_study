@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter06
+package com.me.chapter06
+
 
 object Scala19_Object_Method1 {
 
@@ -32,6 +33,7 @@ object Scala19_Object_Method1 {
             new User()
         }
     }
+    // object修饰的类似于Java中方的static
     object User {
         // 应用，可以构建对象,可以是其他类型的对象
         //def apply(): User = new User()

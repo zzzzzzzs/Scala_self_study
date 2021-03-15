@@ -1,6 +1,7 @@
-package com.atguigu.bigdata.scala
+package com
 
-package object chapter06 {
+
+package object me {
 //    var name : String = "zhangsan"
 //    def test(): Unit = {
 //        println("lisi")

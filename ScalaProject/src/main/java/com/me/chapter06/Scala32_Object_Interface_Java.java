@@ -1,4 +1,4 @@
-package com.atguigu.bigdata.scala.chapter06;
+package com.me.chapter06;
 
 public class Scala32_Object_Interface_Java {
     public static void main(String[] args) throws Exception {

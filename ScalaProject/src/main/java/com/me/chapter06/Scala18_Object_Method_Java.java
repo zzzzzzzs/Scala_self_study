@@ -1,4 +1,4 @@
-package com.atguigu.bigdata.scala.chapter06;
+package com.me.chapter06;
 
 public class Scala18_Object_Method_Java {
     public static void main(String[] args) throws Exception {

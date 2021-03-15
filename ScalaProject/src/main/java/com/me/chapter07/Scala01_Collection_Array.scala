@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter07
+package com.me.chapter07
+
 
 object Scala01_Collection_Array {
 
@@ -26,5 +27,8 @@ object Scala01_Collection_Array {
         for ( name <- array ) {
             println(name)
         }
+
+        array.foreach(println)
+
     }
 }

@@ -1,10 +1,14 @@
-package com.atguigu.bigdata.scala.chapter05
+package com.me.chapter05
+
 
 import java.io.{ObjectOutputStream, PrintWriter}
 import java.net.{ServerSocket, Socket}
 
 object Scala28_Function_Master1 {
 
+    /**
+     * 此例子是从客户端接收到的运算发给服务器计算，并返回结果
+     */
     def main(args: Array[String]): Unit = {
         // TODO 创建客户端，建立和服务器的连接
         val client = new Socket("localhost", 9999)
@@ -26,9 +30,5 @@ object Scala28_Function_Master1 {
         socket.close()
 
         println("获取计算节点的计算结果：" + result)
-
-
-
-
     }
 }

@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter05
+package com.me.chapter05
+
 
 object Scala10_Function_Hell3 {
 
@@ -37,9 +38,9 @@ object Scala10_Function_Hell3 {
 //        val result = test((i : Int, j : Int) => i + j )
         // TODO 如果参数类型可以推断，那么参数类型可以省略
 //        val result = test((i, j) => i + j )
-        // TODO 如果参数在逻辑中值使用了一次，那么参数可以使用下划线代替，参数就可以省略
+        // TODO 如果参数在逻辑中只使用了一次，那么参数可以使用下划线代替，参数就可以省略
         //      下划线是按照参数的声明顺序进行代替的，第一个下划线就是代替第一个参数
-        val result = test(_ + _)
+        val result = test(_ * _)
 
         println(result)
 

@@ -1,4 +1,4 @@
-package com.atguigu.bigdata.scala.chapter06;
+package com.me.chapter06;
 
 public class Scala15_Object_Field_Access_Java {
     public static void main(String[] args) throws Exception {
@@ -18,7 +18,7 @@ public class Scala15_Object_Field_Access_Java {
         a.clone();
     }
 }
-class A {
+class A implements Cloneable{
     private String name;
 
     public A() {

@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter07
+package com.me.chapter07
+
 
 import scala.collection.mutable
 import scala.collection.mutable.ListBuffer
@@ -26,7 +27,5 @@ object Scala15_Collection_Set {
         println(newSet1)
         println(newSet2)
         println(newSet3)
-
-
     }
 }

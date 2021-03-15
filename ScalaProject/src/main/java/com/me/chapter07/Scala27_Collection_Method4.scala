@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter07
+
+
 
 object Scala27_Collection_Method4 {
 
@@ -24,7 +25,7 @@ object Scala27_Collection_Method4 {
 
         // TODO 将字符串中的单词扁平化 : 分词
         val wordList = List( "Hello Scala", "Hello Hadoop" )
-
+        wordList.foreach(println)
         // Hello
         // Scala
         // Hello

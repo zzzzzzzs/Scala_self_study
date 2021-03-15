@@ -1,4 +1,4 @@
-package com.atguigu.bigdata.scala.chapter05;
+package com.me.chapter05;
 
 public class Scala04_Function {
     public static void main(String[] args) {

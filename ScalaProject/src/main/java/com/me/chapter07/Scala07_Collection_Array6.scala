@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter07
+package com.me.chapter07
+
 
 import scala.collection.mutable.ArrayBuffer
 
@@ -19,7 +20,6 @@ object Scala07_Collection_Array6 {
 
         println(array3 eq array)
         println(array3 eq array1)
-
         //println(array eq array1)
     }
 }
