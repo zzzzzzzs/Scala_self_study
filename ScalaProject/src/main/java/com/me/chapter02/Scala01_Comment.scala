@@ -1,4 +1,6 @@
-package com.atguigu.bigdata.scala.chapter02
+package com.me.chapter02
+
+
 
 /**
   * 文档注释
@@ -6,12 +8,12 @@ package com.atguigu.bigdata.scala.chapter02
 object Scala01_Comment {
 
     /**
-      *
-      * @param args
-      */
+     *
+     * @param args
+     */
     def main(args: Array[String]): Unit = {
 
-        /*
+        /**
            scala中的注释和java是一样的
 
            1. 单行注释， 使用两个斜杆

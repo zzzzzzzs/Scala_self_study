@@ -6,11 +6,11 @@ object Scala08_Transform7 {
 
     def main(args: Array[String]): Unit = {
 
-        import com.atguigu.bigdata.scala.chapter09._
+//        import com.atguigu.bigdata.scala.chapter09._
 
         val user = new User()
         user.insert()
-        user.update()
+//        user.update()
     }
     class User {
         def insert(): Unit = {

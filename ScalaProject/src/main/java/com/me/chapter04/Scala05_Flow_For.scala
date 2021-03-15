@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter04
+package com.me.chapter04
+
 
 object Scala05_Flow_For {
 
@@ -24,6 +25,5 @@ object Scala05_Flow_For {
         for ( i : Int <- list ) {
             println("i = " + i)
         }
-
     }
 }

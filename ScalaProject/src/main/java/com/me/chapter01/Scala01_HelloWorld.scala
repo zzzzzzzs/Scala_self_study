@@ -1,7 +1,7 @@
 package com.me.chapter01
 
 object Scala01_HelloWorld {
-    /*
+    /**
       1. object 是执行程序的一个固定写法
          java :
 

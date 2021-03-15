@@ -1,3 +1,5 @@
+package com.me.chapter02
+
 
 import java.io.ObjectOutputStream
 import java.net.Socket

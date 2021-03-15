@@ -1,6 +1,4 @@
-package com.atguigu.bigdata.scala.chapter10
-
-import com.atguigu.bigdata.test.TestScala
+package com.me.chapter10
 
 object Scala01_Transform {
 
@@ -37,13 +35,13 @@ object Scala01_Transform {
         }
 
         // ***************************************
-        val testScala = new TestScala
+//        val testScala = new TestScala
 
         def test( num : Int ): Unit = {
             println("百分比为 " + num + "%")
         }
 
-        test(testScala.num)
+//        test(testScala.num)
         // **************************************
     }
 

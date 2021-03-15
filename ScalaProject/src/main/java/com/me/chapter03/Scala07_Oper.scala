@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter03
+package com.me.chapter03
+
 
 object Scala07_Oper {
     def main(args: Array[String]): Unit = {
@@ -11,9 +12,9 @@ object Scala07_Oper {
 
         //1 + 1
         // 对象.方法（参数）
-        //val i = 1.+(1)
+//        val i = 1.+(1)
         // Scala 中调用对象的方法，点可以省略的
-        //val i = 1 +(1)
+//        val i = 1 +(1)
 
         // Scala 中调用对象的方法，如果方法的参数只有一个，或没有参数，那么小括号可以省略
         //val i = 1 + 1

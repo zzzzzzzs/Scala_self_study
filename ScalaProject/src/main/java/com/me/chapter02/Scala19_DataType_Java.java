@@ -1,4 +1,4 @@
-package com.atguigu.bigdata.scala.chapter02;
+package com.me.chapter02;
 
 public class Scala19_DataType_Java {
     public static void main(String[] args) throws Exception {

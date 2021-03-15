@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter02
+package com.me.chapter02
+
 
 object Scala09_String {
 
@@ -57,10 +58,6 @@ object Scala09_String {
 //               name = zhangsan
 //               age = 20
 //            """.stripMargin)
-
-
-
-
 
     }
 }

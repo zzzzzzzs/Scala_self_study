@@ -1,6 +1,4 @@
-package com.atguigu.bigdata.scala.chapter02
-
-import com.atguigu.bigdata.scala.chapter02.bean.User
+package com.me.chapter02
 
 object Scala16_DataType1 {
 

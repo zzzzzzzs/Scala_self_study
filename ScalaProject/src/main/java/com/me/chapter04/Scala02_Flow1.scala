@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter04
+package com.me.chapter04
+
 
 object Scala02_Flow1 {
 

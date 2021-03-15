@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter04
+package com.me.chapter04
+
 
 import scala.util.control.Breaks._
 
@@ -11,6 +12,7 @@ object Scala12_Flow_Break1 {
         // Scala采用面向对象的语法代替break关键字。
 
         // Scala 中没有continue关键字，也不存在对应的语法
+        // 简写
         var age = 10
         breakable {
             while ( age < 20 ) {

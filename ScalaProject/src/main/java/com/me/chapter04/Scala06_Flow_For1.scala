@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter04
+package com.me.chapter04
+
 
 object Scala06_Flow_For1 {
 
@@ -41,6 +42,7 @@ object Scala06_Flow_For1 {
         for ( i <- 5 to 1 by -1) {
             println("i = " + i)
         }
+
 
         //
         //1 to 5 by 2

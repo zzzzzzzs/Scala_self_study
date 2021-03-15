@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter02
+package com.me.chapter02
+
 
 import java.io.{BufferedReader, InputStreamReader, ObjectInputStream}
 import java.net.{ServerSocket, Socket}

@@ -1,7 +1,7 @@
 package com.me.chapter01
 
-object Scala03_HelloJava {
-    /*
+object Scala02_HelloJava {
+    /**
       1. scala要想执行，也需要编译成class文件，如果平台不变，scala编译后的字节码文件
           应该和java编译的字节码文件的规则一样。
           java : public static void main   => XXXXXXX

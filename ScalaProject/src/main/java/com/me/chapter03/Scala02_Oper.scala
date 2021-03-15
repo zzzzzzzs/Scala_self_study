@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter03
+package com.me.chapter03
+
 
 object Scala02_Oper {
     def main(args: Array[String]): Unit = {

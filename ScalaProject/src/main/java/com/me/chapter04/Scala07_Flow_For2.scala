@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter04
+package com.me.chapter04
+
 
 object Scala07_Flow_For2 {
 
@@ -11,6 +12,7 @@ object Scala07_Flow_For2 {
             println("i = " + i)
         }
 
+        // 一般情况下放在花括号里面
         for ( i <- 1 to 5  ) {
             if( i % 2 == 0 ) {
                 println("i = " + i)

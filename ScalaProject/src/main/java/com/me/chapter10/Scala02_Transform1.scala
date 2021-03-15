@@ -1,6 +1,5 @@
-package com.atguigu.bigdata.scala.chapter10
+package com.me.chapter10
 
-import com.atguigu.bigdata.test.TestScala
 
 object Scala02_Transform1 {
 
