@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter10
+package com.me.chapter10
+
 
 object Scala05_Transform4 {
 

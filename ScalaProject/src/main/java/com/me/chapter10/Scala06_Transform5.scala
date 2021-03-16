@@ -1,7 +1,6 @@
-package com.atguigu.bigdata.scala.chapter10
+package com.me.chapter10
 
-import com.atguigu.bigdata.scala.chapter10.Scala06_Transform5.User
-
+import com.me.chapter10.Scala06_Transform5.User
 object Scala06_Transform5 {
 
     def main(args: Array[String]): Unit = {
