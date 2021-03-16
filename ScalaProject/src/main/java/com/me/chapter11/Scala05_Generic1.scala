@@ -1,6 +1,7 @@
-package com.atguigu.bigdata.scala.chapter11
+package com.me.chapter11
 
-import com.atguigu.bigdata.scala.chapter11.bean._
+
+import com.me.chapter11.bean._
 
 object Scala05_Generic1 {
 
@@ -10,14 +11,14 @@ object Scala05_Generic1 {
         //   为了和Java兼容，Scala也提供了泛型的上限和下限，采用的颜文字
 
         // 泛型的下限 ： _ >: T
-//        val p = new Producer[User]
-        //p.produce(new Message[User]())
-        //p.produce(new Message[Child]()) // (X)
-        //p.produce(new Message[Parent]())
+        val p = new Producer[User]
+        p.produce(new Message[User]())
+//        p.produce(new Message[Child]()) // (X)
+        p.produce(new Message[Parent]())
 
         // 泛型的上限 ：_ <: T
-//        val c = new Consumer[User]
-//        val message: Message[_ <: User] = c.consumer
+        val c = new Consumer[User]
+        val message: Message[_ <: User] = c.consumer
 //        val data: User = message.data
 
     }

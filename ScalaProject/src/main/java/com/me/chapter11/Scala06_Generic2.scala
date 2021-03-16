@@ -1,5 +1,8 @@
-package com.atguigu.bigdata.scala.chapter11
-import com.atguigu.bigdata.scala.chapter11.bean._
+package com.me.chapter11
+
+
+import com.me.chapter11.bean._
+
 
 object Scala06_Generic2 {
 

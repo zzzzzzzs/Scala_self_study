@@ -1,4 +1,5 @@
-package com.atguigu.bigdata.scala.chapter13.bean
+package com.me.chapter13.bean
+
 
 case class Message() {
 

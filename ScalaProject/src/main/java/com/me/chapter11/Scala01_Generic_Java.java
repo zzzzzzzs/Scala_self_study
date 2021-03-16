@@ -1,7 +1,7 @@
-package com.atguigu.bigdata.scala.chapter11;
+package com.me.chapter11;
 
-import com.atguigu.bigdata.scala.chapter11.bean.*;
 
+import com.me.chapter11.bean.*;
 public class Scala01_Generic_Java {
     public static void main(String[] args) {
 

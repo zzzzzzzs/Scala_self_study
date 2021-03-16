@@ -1,10 +1,10 @@
-package com.atguigu.bigdata.scala.chapter13
+package com.me.chapter13
+
 
 import java.io.ObjectOutputStream
 import java.net.Socket
 
-import com.atguigu.bigdata.scala.chapter13.bean.Data
-
+import com.me.chapter13.bean.Data
 object Client extends App {
 
     // TODO 1. 准备数据：数据，计算功能, 需要计算节点的数量

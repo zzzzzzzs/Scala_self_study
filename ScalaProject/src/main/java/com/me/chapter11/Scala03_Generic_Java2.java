@@ -1,6 +1,6 @@
-package com.atguigu.bigdata.scala.chapter11;
+package com.me.chapter11;
 
-import com.atguigu.bigdata.scala.chapter11.bean.*;
+import com.me.chapter11.bean.*;
 
 import java.util.ArrayList;
 import java.util.Collection;

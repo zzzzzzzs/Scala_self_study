@@ -1,9 +1,10 @@
-package com.atguigu.bigdata.scala.chapter13
+package com.me.chapter13
+
 
 import java.io.{ObjectInputStream, ObjectOutputStream}
 import java.net.{ServerSocket, Socket}
 
-import com.atguigu.bigdata.scala.chapter13.bean.{Data, Message, Result, Task}
+import com.me.chapter13.bean.{Data, Message, Result, Task}
 
 import scala.collection.mutable
 
