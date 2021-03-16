@@ -1,4 +1,4 @@
-package com.atguigu.bigdata.scala.chapter08;
+package com.me.chapter08;
 
 public class Scala01_Match_Java {
     public static void main(String[] args) {
