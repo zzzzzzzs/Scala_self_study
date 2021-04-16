@@ -2,7 +2,7 @@ package com
 
 
 import com.me.chapter10.Scala07_Transform6.User
-package object me {
+package object me1 {
     implicit class User4(user:User) {
         def update(): Unit = {
             println("update user4...")

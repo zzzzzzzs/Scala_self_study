@@ -1,6 +1,6 @@
 package com.me.chapter07
 
-object Scala27_Collection_Method4_2 {
+object Scala27_Collection_Method4_map {
 
     def main(args: Array[String]): Unit = {
         // map 就去掉一个最外层集合，返回元素的时候加上一个List集合
