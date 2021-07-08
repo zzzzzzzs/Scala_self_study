@@ -18,5 +18,6 @@ buildNumber.properties
 
 # 同级的.idea
 .idea
+*.iml
 
 **/.gitignore
