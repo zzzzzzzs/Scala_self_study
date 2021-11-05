@@ -15,9 +15,9 @@ buildNumber.properties
 
 **/.mvn
 **/target/
+**/*.iml
 
-# 同级的.idea
-.idea
-*.iml
+# 任意路径下的idea的文件
+**/.idea
 
 **/.gitignore
